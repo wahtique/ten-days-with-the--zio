@@ -1,2 +1,10 @@
 *.class
 *.log
+
+day-01-hello-world/.bloop/
+
+day-01-hello-world/.coursier/
+
+day-01-hello-world/.metals/
+
+day-01-hello-world/out/
